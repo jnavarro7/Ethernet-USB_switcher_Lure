@@ -1,0 +1,30 @@
+RefDes,Value,Name,Manufacturer,Datasheet
+3V,3.3V,LD1117DT33TR,ST,http://www.mouser.com/ds/2/389/CD00000544-310772.pdf
+5V,5V,UA78M05CKVURG3,Texas Instruments,http://www.mouser.com/ds/2/405/ua78m05-534325.pdf
+C1,47uF,CAP100RP,,
+C2,4.7uF,CAP100RP,,
+C3,4.7uF,CAP100RP,,
+C4,0.1uF,CAP_1206,,
+D1,1N4001,DIODE,,
+D2,,LED (5mm),,
+D3,1N4001,DIODE,,
+D4,1N4001,DIODE,,
+J1,,43202-8816,Molex,http://datasheets.diptrace.com\con_jacks\43202.pdf
+J2,,292304-1,TE Connectivity,http://documents.tycoelectronics.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=292304&DocType=CD&DocLang=EN
+J3,,292303-3,TE Connectivity,http://documents.tycoelectronics.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=292303&DocType=CD&DocLang=EN
+J4,,PJ-002B,,http://datasheets.diptrace.com\con_power\pj-002b.pdf
+J5,,5-146253-4,,http://datasheets.diptrace.com\con_headers\ENG_CD_146253_H2.pdf
+J6,,5-146253-1,,http://datasheets.diptrace.com\con_headers\ENG_CD_146253_H2.pdf
+J7,,43202-8816,Molex,http://datasheets.diptrace.com\con_jacks\43202.pdf
+K1,Relay,TXD2-3V,Panasonic,http://www3.panasonic.biz/ac/e_download/control/relay/signal/catalog/discon2013e_txd.pdf?f_cd=401350
+K2,Relay,TXD2-3V,Panasonic,http://www3.panasonic.biz/ac/e_download/control/relay/signal/catalog/discon2013e_txd.pdf?f_cd=401351
+K3,Relay,TXD2-3V,Panasonic,http://www3.panasonic.biz/ac/e_download/control/relay/signal/catalog/discon2013e_txd.pdf?f_cd=401352
+K4,Relay,TXD2-3V,Panasonic,http://www3.panasonic.biz/ac/e_download/control/relay/signal/catalog/discon2013e_txd.pdf?f_cd=401353
+K5,Relay,TXD2-3V,Panasonic,http://www3.panasonic.biz/ac/e_download/control/relay/signal/catalog/discon2013e_txd.pdf?f_cd=401354
+K6,Relay,TXD2-3V,Panasonic,http://www3.panasonic.biz/ac/e_download/control/relay/signal/catalog/discon2013e_txd.pdf?f_cd=401355
+Q1,NPN Transistor,2N3904,,
+Q2,NPN Transistor,2N3904,,
+R1,330,RES,,
+R9,10k,RES,,
+R10,10k,RES,,
+U2,26pinHeader,M20-7831346,Harwin,http://www.mouser.com/ds/2/181/M20-783-351164.pdf
